@@ -1,0 +1,30 @@
+{
+  "id": "3253332",
+  "name": "mytrave",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "145438",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "4175511",
+      "name": "下箭头",
+      "font_class": "xiajiantou",
+      "unicode": "eb6d",
+      "unicode_decimal": 60269
+    },
+    {
+      "icon_id": "27734607",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}
